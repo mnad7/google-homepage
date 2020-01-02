@@ -1,4 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
 #top-container {
     position: absolute;
-    top: 0;
+    font-size: 13px;
+    top: 15px;
 }
+
+#main {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.logo {
+    padding-top: 200px;
+    padding-bottom: 25px;
+}
+
+.search {
+    font-size:13pt;
+    position: relative;
+    margin: 0 auto;
+    width: 529px;
+    height: 100%;
+    border: 1px solid #DDDDDD;
+    padding: 0 10px;
+}
+
+
+
+body {
+    position: relative;
+}
+
+a {
+    color: black;
+    opacity: 0.75;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-left: 17px;
+}
+
